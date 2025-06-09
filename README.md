@@ -3,8 +3,7 @@ A large number of web-based crowd-funding projects are contributing  huge data e
 
 Presented report includes answers of the following questions:
 
-1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time 
-             https://www.epochconverter.com/ )
+1. Convert the Date fields to Natural Time ( Currently the dates are in Epoch time Read the attached Artical for Reference on Epoch Time )
 2. Build a Calendar Table using the Date Column Created Date ( Which has Dates from Minimum Dates and Maximum Dates)
   Add all the below Columns in the Calendar Table using the Formulas.
    A.Year
